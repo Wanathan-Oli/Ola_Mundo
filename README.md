@@ -3,4 +3,4 @@
 
 Repositorio criado durante uma aula de Git e Gihub.
 
-Essa linha foi uma alteração remota.
+Essa linha foi uma alteração remota...
